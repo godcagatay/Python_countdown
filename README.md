@@ -1,3 +1,3 @@
 # Python_countdown
 Basic countdowner in seconds
-Pycharm recommended
+/t Pycharm recommended
